@@ -59,19 +59,29 @@ As principais características do site são:
  - Barra de menu inferior, como App.
  - Fotos de qualidade.
  - Responsividade para todas as telas.
+ - Uso de animações em CSS na tela de login para deixar mais interativo.
 
 
 ## Links
   - Repositorio: 
-  * tela de inicio
+  tela de inicio
   https://github.com/MatheusBarros07/portfoliogilvan
-  * tela de Artigos
+  tela de Artigos
   https://github.com/MatheusBarros07/portifoliogilvanartigos
-  * tela de Login
+  tela de Login
   https://github.com/MatheusBarros07/logingilvan
-    - Em caso de bugs sensíveis, como vulnerabilidades de segurança, entre em contato
+    
+  - Site Hospedado
+  tela de inicio
+  https://matheusbarros07.github.io/portfoliogilvan/  
+  tela de Artigos
+  https://matheusbarros07.github.io/portifoliogilvanartigos/  tela de Login
+  https://matheusbarros07.github.io/logingilvan/
+
+  - Em caso de bugs sensíveis, como vulnerabilidades de segurança, entre em contato
      mgama868@gmail.com diretamente em vez de usar o rastreador de problemas. Valorizamos o seu esforço
       para melhorar a segurança e privacidade deste projeto!
+
 
   ## Versão
 
